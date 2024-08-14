@@ -1,8 +1,10 @@
 ## Olá! Bem-vindo ao meu perfil no GitHub! 👋
 
+***Sobre mim***
+
 * Sempre aprendendo e me aperfeiçoando nas melhores práticas de desenvolvimento.
 * Busco colaborar em projetos inovadores e desafiadores.
-* Pergunte-me sobre Python, Node.js, e JavaScript.
+* Pergunte-me sobre ***Python***, ***Node.js***, e ***JavaScript***.
 
 ## Linguagens e Frameworks
 <div align="left">
